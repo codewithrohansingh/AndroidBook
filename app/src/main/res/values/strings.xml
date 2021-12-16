@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SearchYourFavBooks</string>
+    <string name="edit_query">Enter the number of results you want to display:</string>
+    <string name="search">Search</string>
+    <string name="hint">e.g. 4</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="no_data">No book available</string>
+
+</resources>
